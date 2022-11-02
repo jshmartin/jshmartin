@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **josh123198@gmail.com OR josh123198@outlook.com**
 
-- ⚡ My Hobbies **Boxing, Breaking, Flow Movement**
+- ⚡ My Hobbies: **Boxing, Breaking, Flow Movement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
