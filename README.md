@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh Martinez</h1>
 <h3 align="center">A passionate Web and Software Developer from Burnaby, BC</h3>
 
-- 🌱 I’m currently learning **Go and Svelte**
-
 - 📫 How to reach me **josh123198@gmail.com OR josh123198@outlook.com**
 
 - ⚡ My Hobbies: **Breaking, Tinkering with emulators**
